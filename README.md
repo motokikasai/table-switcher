@@ -7,4 +7,4 @@
   <img src="./assets/20200621-table-switcher.gif" width="600px">
 </p>
 
-<a href="https://motokikasai.github.io/table-switcher/" target="_blank"><h3 align="center">DEMO</h3></a>
+<a href="https://motokikasai.github.io/table-switcher/" target="_blank"><h3 align="center">LIVE</h3></a>
